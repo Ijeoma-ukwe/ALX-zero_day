@@ -1,2 +1,2 @@
-my second and  third learners commit
-third learners commit
+my second learners commit
+My third learners commit
